@@ -1,3 +1,4 @@
 Animals
 Birds
+Plants
 Tree
